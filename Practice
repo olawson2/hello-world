@@ -1,5 +1,6 @@
 /* Oswald Lawson
-MSE2202B Practice Exam 2016*/
+MSE2202B Practice Exam 2016
+2020*/
 
 #include <Servo.h>
 
